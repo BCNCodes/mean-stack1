@@ -1,5 +1,21 @@
 ### Conceptes
 
+* Elementos de bloque vs elementos inline
+* Uso de semánticos:
+  * nav
+  * main
+  * section
+  * article
+  * header
+  * summary
+  * details
+  * figure
+  * aside
+  * figcaption
+  * footer
+  * mark
+  * time
+
 ### Enllaços:
 + Aplicacions de productivitat:
   * [Trello](https://trello.com)
