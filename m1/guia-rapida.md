@@ -32,3 +32,5 @@
   * [Referències HTML](https://developer.mozilla.org/kab/docs/Web/HTML)
   * [Planificació d'una Web simple](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#Enter_HTML5_structural_elements#Planning_a_simple_website)
 + [W3C Validator](https://validator.w3.org/#validate_by_input )
++ [HTML5Doctor](http://html5doctor.com/element-index/)
++ [W3CSchools](https://www.w3schools.com/)
