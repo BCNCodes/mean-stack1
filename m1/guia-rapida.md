@@ -34,3 +34,4 @@
 + [W3C Validator](https://validator.w3.org/#validate_by_input )
 + [HTML5Doctor](http://html5doctor.com/element-index/)
 + [W3CSchools](https://www.w3schools.com/)
+Aplicación para móvil equivalencias medidas: Introspect (Android y Apple)
