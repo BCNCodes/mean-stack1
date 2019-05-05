@@ -56,3 +56,4 @@
 * [Fuentes y Tipografías](https://lenguajecss.com/p/css/propiedades/fuentes-y-tipografias): Buena página para entender cómo funcionan las fuentes en css.
 * [Plates](https://flukeout.github.io/): juego para aprender selectores CSS
 * [cheat-sheet emmet](https://docs.emmet.io/cheat-sheet/): Guía de atajos para CSS y HTML
+* [Centrado de elementos con CSS] (http://laboratorio.pablofv.com/front-end/centrar-elementos-con-css/#centro42)
