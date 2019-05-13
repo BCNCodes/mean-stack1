@@ -130,3 +130,4 @@ Here is a list of some more [DOM Properties](https://developer.mozilla.org/en-US
 * [cheat-sheet emmet](https://docs.emmet.io/cheat-sheet/): Guía de atajos para CSS y HTML
 * [Centrado de elementos con CSS](http://laboratorio.pablofv.com/front-end/centrar-elementos-con-css/#centro42)
 * [Advanced Styling CSS Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Advanced_styling_for_HTML_forms);
+* [Plantillas Formularios](https://www.wufoo.com/gallery/templates/)
