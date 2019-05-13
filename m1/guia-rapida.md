@@ -132,3 +132,4 @@ Here is a list of some more [DOM Properties](https://developer.mozilla.org/en-US
 * [Advanced Styling CSS Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Advanced_styling_for_HTML_forms);
 * [Wufoo](https://www.wufoo.com/gallery/templates/): Plantillas Formularios
 * [https://htmlreference.io/forms/](https://htmlreference.io/forms/): Referencia rápida de widgets de formularios
+* [The Accessibility of Styled Form Controls]https://github.com/scottaohara/a11y_styled_form_controls: Información y ejemplo de restyling de widgets de formulario sin alterar la accesibilidad.
