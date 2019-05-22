@@ -134,3 +134,4 @@ Here is a list of some more [DOM Properties](https://developer.mozilla.org/en-US
 * [https://htmlreference.io/forms/](https://htmlreference.io/forms/): Referencia rápida de widgets de formularios
 * [The Accessibility of Styled Form Controls](https://github.com/scottaohara/a11y_styled_form_controls): Información y ejemplo de restyling de widgets de formulario sin alterar la accesibilidad.
 * [How To](https://www.w3schools.com/howto/default.asp): Página de W3School con código para construir widgets; menu bar, star rating,...
+* [Lorem Picsum](https://picsum.photos/): Fotografías Random gratis.
