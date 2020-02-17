@@ -379,6 +379,8 @@ Quan volem fer referència a un text que no hem escrit nosaltres hem de fer serv
 `<cite>`, ens serveix per marcar l’origen de la citació (l’autor de la citació, el títol…).
 Posem un exemple d’ús d’aquestes etiquetes. Imaginem que estem fent un lloc web on volem posar una citació de l’escriptor Manuel de Pedrolo:
 
+https://codepen.io/rglepe/pen/drPZPa/
+
 <iframe height="265" style="width: 100%;" scrolling="no" title="citacions" src="http://codepen.io/rglepe/embed/drPZPa/?height=265&theme-id=0&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">   See the Pen <a href='https://codepen.io/rglepe/pen/drPZPa/'>citacions</a> by Raul Garcia
   (<a href='https://codepen.io/rglepe'>@rglepe</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
